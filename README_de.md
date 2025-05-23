@@ -12,8 +12,8 @@ Big Data ist ein entscheidendes Feld in der heutigen datengestützten Welt. Dies
 
 |   Index | Name                                                                           | Schwierigkeit   | Repo                                                             | Übung                                                                   |
 |---------|--------------------------------------------------------------------------------|-----------------|------------------------------------------------------------------|-------------------------------------------------------------------------|
-|       1 | [Schnellstart mit Java](https://labex.io/de/courses/quick-start-with-java)     | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-java)   |
-|       2 | [Schnellstart mit Hadoop](https://labex.io/de/courses/quick-start-with-hadoop) | ★☆☆             | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-hadoop) |
+|       1 | [Schnellstart mit Java](https://labex.io/de/courses/quick-start-with-java)     | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-java)   |
+|       2 | [Schnellstart mit Hadoop](https://labex.io/de/courses/quick-start-with-hadoop) | Anfänger        | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 Labor Starten](https://labex.io/de/courses/quick-start-with-hadoop) |
 
 ## Mehr
 
