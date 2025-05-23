@@ -12,8 +12,8 @@
 
 |   Индекс | Название                                                                      | Сложность   | Repo                                                             | Практика                                                                     |
 |----------|-------------------------------------------------------------------------------|-------------|------------------------------------------------------------------|------------------------------------------------------------------------------|
-|        1 | [Быстрый старт с Java](https://labex.io/ru/courses/quick-start-with-java)     | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-java)   |
-|        2 | [Быстрый старт с Hadoop](https://labex.io/ru/courses/quick-start-with-hadoop) | ★☆☆         | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-hadoop) |
+|        1 | [Быстрый старт с Java](https://labex.io/ru/courses/quick-start-with-java)     | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-java)   |
+|        2 | [Быстрый старт с Hadoop](https://labex.io/ru/courses/quick-start-with-hadoop) | Начинающий  | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 Начать Лабораторию](https://labex.io/ru/courses/quick-start-with-hadoop) |
 
 ## Больше
 
