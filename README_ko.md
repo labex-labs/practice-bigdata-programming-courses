@@ -12,8 +12,8 @@
 
 |   인덱스 | 이름                                                                    | 난이도   | Repo                                                             | 연습                                                                |
 |----------|-------------------------------------------------------------------------|----------|------------------------------------------------------------------|---------------------------------------------------------------------|
-|        1 | [Java 퀵 스타트](https://labex.io/ko/courses/quick-start-with-java)     | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-java)   |
-|        2 | [Hadoop 퀵 스타트](https://labex.io/ko/courses/quick-start-with-hadoop) | ★☆☆      | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-hadoop) |
+|        1 | [Java 퀵 스타트](https://labex.io/ko/courses/quick-start-with-java)     | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-java)   |
+|        2 | [Hadoop 퀵 스타트](https://labex.io/ko/courses/quick-start-with-hadoop) | 초급     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 실습 시작](https://labex.io/ko/courses/quick-start-with-hadoop) |
 
 ## 더 보기
 
