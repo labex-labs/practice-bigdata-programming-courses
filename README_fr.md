@@ -12,8 +12,8 @@ Le Big Data est un domaine essentiel dans le monde axé sur les données d'aujou
 
 |   Index | Nom                                                                                 | Difficulté   | Repo                                                             | Pratique                                                                   |
 |---------|-------------------------------------------------------------------------------------|--------------|------------------------------------------------------------------|----------------------------------------------------------------------------|
-|       1 | [Démarrage rapide avec Java](https://labex.io/fr/courses/quick-start-with-java)     | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-java)   |
-|       2 | [Démarrage rapide avec Hadoop](https://labex.io/fr/courses/quick-start-with-hadoop) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-hadoop) |
+|       1 | [Démarrage rapide avec Java](https://labex.io/fr/courses/quick-start-with-java)     | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-java)   |
+|       2 | [Démarrage rapide avec Hadoop](https://labex.io/fr/courses/quick-start-with-hadoop) | Débutant     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 Commencer le Lab](https://labex.io/fr/courses/quick-start-with-hadoop) |
 
 ## Plus
 
