@@ -12,8 +12,8 @@
 
 |   序号 | 名称                                                                   | 难度   | Repo                                                             | 练习                                                               |
 |--------|------------------------------------------------------------------------|--------|------------------------------------------------------------------|--------------------------------------------------------------------|
-|      1 | [Java 快速入门](https://labex.io/zh/courses/quick-start-with-java)     | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-java)   |
-|      2 | [Hadoop 快速入门](https://labex.io/zh/courses/quick-start-with-hadoop) | ★☆☆    | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-hadoop) |
+|      1 | [Java 快速入门](https://labex.io/zh/courses/quick-start-with-java)     | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-java)   |
+|      2 | [Hadoop 快速入门](https://labex.io/zh/courses/quick-start-with-hadoop) | 初级   | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 开始实验](https://labex.io/zh/courses/quick-start-with-hadoop) |
 
 ## 更多
 
