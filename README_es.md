@@ -12,8 +12,8 @@ El Big Data es un campo crucial en el mundo actual impulsado por los datos. Este
 
 |   Índice | Nombre                                                                       | Dificultad   | Repo                                                             | Práctica                                                                      |
 |----------|------------------------------------------------------------------------------|--------------|------------------------------------------------------------------|-------------------------------------------------------------------------------|
-|        1 | [Guía Rápida de Java](https://labex.io/es/courses/quick-start-with-java)     | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-java)   |
-|        2 | [Guía Rápida de Hadoop](https://labex.io/es/courses/quick-start-with-hadoop) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-hadoop) |
+|        1 | [Guía Rápida de Java](https://labex.io/es/courses/quick-start-with-java)     | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-java)   |
+|        2 | [Guía Rápida de Hadoop](https://labex.io/es/courses/quick-start-with-hadoop) | Principiante | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 Iniciar Laboratorio](https://labex.io/es/courses/quick-start-with-hadoop) |
 
 ## Más
 
