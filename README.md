@@ -12,8 +12,8 @@ Big Data is a crucial field in today's data-driven world. This Skill Tree provid
 
 |   Index | Name                                                                        | Difficulty   | Repo                                                             | Practice                                                         |
 |---------|-----------------------------------------------------------------------------|--------------|------------------------------------------------------------------|------------------------------------------------------------------|
-|       1 | [Quick Start with Java](https://labex.io/courses/quick-start-with-java)     | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 Start Lab](https://labex.io/courses/quick-start-with-java)   |
-|       2 | [Quick Start with Hadoop](https://labex.io/courses/quick-start-with-hadoop) | ★☆☆          | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-hadoop) |
+|       1 | [Quick Start with Java](https://labex.io/courses/quick-start-with-java)     | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-java)   | [🚀 Start Lab](https://labex.io/courses/quick-start-with-java)   |
+|       2 | [Quick Start with Hadoop](https://labex.io/courses/quick-start-with-hadoop) | Beginner     | [🔗 Repo](https://github.com/labex-labs/quick-start-with-hadoop) | [🚀 Start Lab](https://labex.io/courses/quick-start-with-hadoop) |
 
 ## More
 
